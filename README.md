@@ -3,4 +3,4 @@ Et voici l'esp : https://fr.aliexpress.com/item/1005007341738903.html?src=google
 Vous retrouverez les codes que j'utilise le fichier nommé tourelle.ino est celui que j'utilise avec mon arduino uno et trois servomoteurs qui sont les suivants : https://www.amazon.fr/gp/product/B0DP4HWB65/ref=ox_sc_act_title_3?smid=A4J9ZM9OW83I&psc=1
 Le fichier nommé telecommande.ino quand à lui me permet de récuperer les infos du joystick et de les envoyer à mon arduino via un transmetteur rf.
 Je vous laise me soumettre toutes vos idées 
-Mon esp n'envoie pas d'infos à mon arduino ou alors il n'en reçoit pas je n'arrive pas à déterminer. pouvez-vous m'aider ?
+Mon esp n'envoie pas d'infos à mon arduino ou alors il n'en reçoit pas je n'arrive pas à déterminer. Pouvez-vous m'aider ?
